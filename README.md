@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zain030
 - 👀 I'm a Web designer
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... zainakbar030@gmail.com
 
 <!---
